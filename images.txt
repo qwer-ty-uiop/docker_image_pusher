@@ -1,3 +1,4 @@
+wordpress
 nginx
 redis
 bitnami/redis
